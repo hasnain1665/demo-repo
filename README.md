@@ -1,3 +1,3 @@
 # Git & Github
 
-This is a demo repository for git and github
+This is a demo repository for git and github!
